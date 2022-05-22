@@ -2,7 +2,7 @@
 ## Title: Delete Soul Shard (/dss)
 ## Notes: Command to delete a variable number of soul shard(s) from bags
 ## Author: Plum
-## Version: 1.0
+## Version: 1.0.0
 
 # deps
 DeleteSoulShard.lua
